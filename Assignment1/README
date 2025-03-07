@@ -1,0 +1,10 @@
+Run the main.java 
+
+The game is a text-based, playable RPG battle where you control a Player (your hero) who faces off against an Enemy (a goblin). In each round, you get to choose one of the following actions:
+
+Attack: Your hero attacks the enemy using a sword.
+Use Item: You can use a generic or named item, which (for demonstration) can slightly restore your health.
+Run: Your hero can run to escape or reposition, which consumes stamina.
+
+After your turn, if the enemy is still alive, it takes its turn to attack you. The game continues until either your hero or the enemy is defeated.
+
