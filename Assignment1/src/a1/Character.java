@@ -1,6 +1,6 @@
 package a1;
 
-public abstract class Character {
+public abstract class Character implements Attackable {
     protected String name;
     protected int health;
     protected int stamina;
